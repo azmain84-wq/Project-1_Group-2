@@ -11,7 +11,7 @@ We recorded **video walkthroughs** explaining how each case was solved using SQL
 - Use **Northwinds2022**  databases in **Azure Data Studio**.  
 - Collaborate through **GitHub** for version control and group repository submissions.  
 - Record **Group MP4 videos** explaining query logic and results (posted on YouTube).  
-- Conduct **pair reviews** of each other’s queries and provide feedback in one combined video.  
+- Conduct **pair reviews** of each other’s queries and provide feedback in video.  
 - Prepare a **README.md** with project overview, stories, and SQL outputs.  
 - Complete the **To-Do List**, **Grantt Chart**, and **NACE reflection**.  
 - Use **ChatGPT** responsibly for study support, SQL explanations, and documentation improvement.
