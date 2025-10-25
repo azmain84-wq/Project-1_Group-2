@@ -10,7 +10,7 @@ We recorded **video walkthroughs** explaining how each case was solved using SQL
 - Create **7 individual SQL mystery queries** per member using storytelling format (detective-style cases).  
 - Use **Northwinds2022**  databases in **Azure Data Studio**.  
 - Collaborate through **GitHub** for version control and group repository submissions.  
-- Record **individual MP4 videos** explaining query logic and results (posted on YouTube).  
+- Record **Group MP4 videos** explaining query logic and results (posted on YouTube).  
 - Conduct **pair reviews** of each other’s queries and provide feedback in one combined video.  
 - Prepare a **README.md** with project overview, stories, and SQL outputs.  
 - Complete the **To-Do List**, **Grantt Chart**, and **NACE reflection**.  
