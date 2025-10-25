@@ -8,12 +8,9 @@ Each group member built **7 mystery-themed SQL cases** using the **Northwinds202
 - **Shiwlee Rahman**
 - **Eusan Mahtab**
 
-
 ### Objective
 To analyze real-world business data using detective-style stories, SQL joins, subqueries, and analytical functions.  
 Each query was designed to tell a *“mystery story”* solved through SQL.
-
----
 
 ##  Tools & Technologies
 
@@ -25,7 +22,6 @@ Each query was designed to tell a *“mystery story”* solved through SQL.
 | **YouTube** | Video Presentation Hosting |
 | **ChatGPT (Study Tool)** | Assisted in SQL explanation, documentation writing, and readability improvements |
 
----
 
 ## Mysteries by Shiwlee Rahman
 
@@ -50,7 +46,7 @@ Lists customers who used more than one shipper (possibly testing different servi
 ### Case 7 — *Blink-and-You-Miss-It Reorders*
 Detects customers who placed consecutive orders within 7 days.
 
----
+
 
 ## Mysteries by Eusan Mahtab
 
@@ -75,13 +71,13 @@ Finds tea, coffee, or juice products categorized under non-beverage groups.
 ### Case 7 — *The Global Sales Race*
 Ranks countries by total sales revenue to discover the top-performing markets.
 
----
+
 
 ## Project To-Do List 
 
 |
 
----
+
 
 ## Reflections & Learning Outcomes
 - Strengthened skills in **JOINs, Aggregations, Subqueries, and CTEs**.  
@@ -91,7 +87,7 @@ Ranks countries by total sales revenue to discover the top-performing markets.
 - Gained confidence in **Azure Data Studio** and **DBeaver** for SQL project management.  
 
 
----
+
 
 ##  Prepared By
 **Shiwlee Rahman** & **Eusan Mahtab**  
