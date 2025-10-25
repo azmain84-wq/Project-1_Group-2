@@ -6,6 +6,17 @@ Our team created a collection of **SQL mystery cases** designed to reveal hidden
 Each mystery uses **real datasets Northwinds2022  and applies advanced SQL techniques such as joins, aggregations, subqueries, and common table expressions (CTEs).
 We recorded **video walkthroughs** explaining how each case was solved using SQL queries and logic-based data analysis.
 
+##  Goals
+- Create **7 individual SQL mystery queries** per member using storytelling format (detective-style cases).  
+- Use **Northwinds2022** and **AdventureWorks2017** databases in **Azure Data Studio** or **DBeaver**.  
+- Collaborate through **GitHub** for version control and group repository submissions.  
+- Record **individual MP4 videos** explaining query logic and results (posted on YouTube).  
+- Conduct **pair reviews** of each other’s queries and provide feedback in one combined video.  
+- Prepare a **README.md** with project overview, stories, and SQL outputs.  
+- Complete the **To-Do List**, **Grantt Chart**, and **NACE reflection**.  
+- Use **ChatGPT** responsibly for study support, SQL explanations, and documentation improvement.
+
+
 ##  Members
 - **Azmain Abrar**
 - **Shiwlee Rahman**
