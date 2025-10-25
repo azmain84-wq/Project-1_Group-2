@@ -27,20 +27,20 @@ We recorded **video walkthroughs** explaining how each case was solved using SQL
 - **Haiyan Wei**
 
 
-  # Pairs
+## Pairs
   - Azmain 
   - Eusan : Shiwlee
   - Haiyan : Zarrin
   - Izaz : Christopher
 
- # Link To GROUP Peer Discussion & Videos
+## Link To GROUP Peer Discussion & Videos
   - Azmain : 
   - Eusan : Shiwlee
   - Haiyan: Zarrin
   - Izaz: Christopher
 
 
-# Individual Query Files
+## Individual Query Files
 - Azmain: 
 - Eusan: Individual_Cases_Eusan_Mahatab .ipynb
 - Shiwlee: Shiwlee_Rahman_Project1.ipynb
@@ -51,7 +51,7 @@ We recorded **video walkthroughs** explaining how each case was solved using SQL
 
 
   
-# Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |------|----------|
@@ -62,7 +62,7 @@ We recorded **video walkthroughs** explaining how each case was solved using SQL
 | **ChatGPT (Study Tool)** | Assisted in SQL explanation, documentation writing, and readability improvements |
 
 
-# To-Do-List
+## To-Do-List
 
 
 
@@ -70,11 +70,11 @@ We recorded **video walkthroughs** explaining how each case was solved using SQL
 
 
 
-# NACE
+## NACE
 
 <img width="567" height="756" alt="Screenshot 2025-10-20 at 12 14 54 AM" src="https://github.com/user-attachments/assets/ae4b38aa-3dbc-4000-871e-ab1082b77235" />
 
 
 
-# Gantt Chart 
+## Gantt Chart 
 <img width="1611" height="649" alt="image" src="https://github.com/user-attachments/assets/cbf1d6e9-fce8-4f93-9c1b-1acc9b9972b9" />
