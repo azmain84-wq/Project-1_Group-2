@@ -8,7 +8,7 @@ We recorded **video walkthroughs** explaining how each case was solved using SQL
 
 ##  Goals
 - Create **7 individual SQL mystery queries** per member using storytelling format (detective-style cases).  
-- Use **Northwinds2022** and **AdventureWorks2017** databases in **Azure Data Studio** or **DBeaver**.  
+- Use **Northwinds2022**  databases in **Azure Data Studio**.  
 - Collaborate through **GitHub** for version control and group repository submissions.  
 - Record **individual MP4 videos** explaining query logic and results (posted on YouTube).  
 - Conduct **pair reviews** of each other’s queries and provide feedback in one combined video.  
