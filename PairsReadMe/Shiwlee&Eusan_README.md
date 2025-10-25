@@ -1,6 +1,6 @@
 # CS331 Project 1 (Group # 2)
 
-##  Project Overview
+##  Project 
 This project was created as part of **CSCI 331 – Database Systems** to explore creative data storytelling through SQL queries.  
 Each group member built **7 mystery-themed SQL cases** using the **Northwinds2022** databases.
 
