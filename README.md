@@ -6,7 +6,6 @@ Our team created a collection of **SQL mystery cases** designed to reveal hidden
 Each mystery uses **real datasets Northwinds2022  and applies advanced SQL techniques such as joins, aggregations, subqueries, and common table expressions (CTEs).
 We recorded **video walkthroughs** explaining how each case was solved using SQL queries and logic-based data analysis.
 
----
 ##  Members
 - **Azmain Abrar**
 - **Shiwlee Rahman**
@@ -49,6 +48,7 @@ We recorded **video walkthroughs** explaining how each case was solved using SQL
 | **DBeaver** | Query Testing, Schema Browsing |
 | **GitHub** | Version Control, Submission |
 | **YouTube** | Video Presentation Hosting |
+| **ChatGPT (Study Tool)** | Assisted in SQL explanation, documentation writing, and readability improvements |
 
 
 # To-Do-List
