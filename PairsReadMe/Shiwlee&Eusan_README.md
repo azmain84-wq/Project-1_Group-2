@@ -6,7 +6,7 @@ Each group member built **7 mystery-themed SQL cases** using the **Northwinds202
 
 ###  Team Members
 - **Shiwlee Rahman**
-- **Eusan Mahtab**
+- **Eusan Mahatab**
 
 ### Objective
 To analyze real-world business data using detective-style stories, SQL joins, subqueries, and analytical functions.  
@@ -48,7 +48,7 @@ Detects customers who placed consecutive orders within 7 days.
 
 
 
-## Mysteries by Eusan Mahtab
+## Mysteries by Eusan Mahatab
 
 ### Case 1 — *The Missing Order*
 Finds orders that were created but never shipped.
@@ -90,5 +90,5 @@ Ranks countries by total sales revenue to discover the top-performing markets.
 
 
 ##  Prepared By
-**Shiwlee Rahman** & **Eusan Mahtab**  
+**Shiwlee Rahman** & **Eusan Mahatab**  
 
