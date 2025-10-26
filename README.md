@@ -44,10 +44,10 @@ We recorded **video walkthroughs** explaining how each case was solved using SQL
 - Azmain: 
 - Eusan: Individual_Cases_Eusan_Mahatab .ipynb
 - Shiwlee: Shiwlee_Rahman_Project1.ipynb
-- Haiyan: 
-- Izaz: 
+- Haiyan: Haiyan_Wei_Project1.ipynb
+- Izaz: Izaz_Chowdhury_Project1.ipynb
 - Christopher: 
-- Zarrin:
+- Zarrin: Zarrin_Cherry_Project1.ipynb
 
 
   
