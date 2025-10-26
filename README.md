@@ -3,7 +3,7 @@
 ### Mystery Data Investigation
 
 Our team created a collection of **SQL mystery cases** designed to reveal hidden insights in business data using creative storytelling.  
-Each mystery uses **real datasets Northwinds2022 and Northwinds** and applies advanced SQL techniques such as joins, aggregations, subqueries, and common table expressions (CTEs).
+Each mystery uses **real datasets Northwinds2022 and Northwinds**, and applies advanced SQL techniques such as joins, aggregations, subqueries, and common table expressions (CTEs).
 We recorded **video walkthroughs** explaining how each case was solved using SQL queries and logic-based data analysis.
 
 ##  Goals
