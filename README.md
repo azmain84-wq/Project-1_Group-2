@@ -81,7 +81,8 @@ We recorded **video walkthroughs** explaining how each case was solved using SQL
 
 ## NACE
 
-<img width="918" height="892" alt="image" src="https://github.com/user-attachments/assets/4bff696e-a159-421a-ae96-859b3c088061" />
+
+![NACE (5)](https://github.com/user-attachments/assets/4cbac29a-5e29-46b5-801f-eead955b17a1)
 
 
 
