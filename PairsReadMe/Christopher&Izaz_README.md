@@ -10,6 +10,14 @@ To analyze real-world business data using detective-style stories, SQL joins, su
 Each query was designed to tell a “mystery story” solved through SQL.
 
 ## Tools and Technologies
+| Tool                     | Purpose                                                                 |
+|---------------------------|--------------------------------------------------------------------------|
+| **Azure Data Studio**     | SQL Query Execution & Notebooks                                          |
+| **DBeaver**               | Query Testing, Schema Browsing                                           |
+| **GitHub**                | Version Control, Submission                                              |
+| **YouTube**               | Video Presentation Hosting                                               |
+| **ChatGPT (Study Tool)**  | Assisted in SQL explanation, documentation writing, and readability improvements |
+
 
 ## Mysteries by Christopher Vidal
 
