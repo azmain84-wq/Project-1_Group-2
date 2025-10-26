@@ -5,8 +5,8 @@ This project was created as part of **CSCI 331 – Database Systems** to explore
 Each group member built 7 mystery-themed SQL cases using the **Northwinds** and **Northwinds2022** database.
 
 **Team Members:**  
-Zarrin Cherry  
-Haiyan Wei  
+- Zarrin Cherry  
+- Haiyan Wei  
 
 ---
 
