@@ -39,6 +39,15 @@ We recorded **video walkthroughs** explaining how each case was solved using SQL
   - Haiyan: Zarrin
   - Izaz: Christopher
 
+## Link To INDIVIDUAL Discussion & Videos
+  - Azmain:
+  - Zarrin:
+  - Haiyan:
+  - Izaz:
+  - Eusan:
+  - Christopher:
+  - Shiwlee: 
+
 
 ## Individual Query Files
 - Azmain: 
