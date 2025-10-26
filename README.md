@@ -3,12 +3,12 @@
 ### Mystery Data Investigation
 
 Our team created a collection of **SQL mystery cases** designed to reveal hidden insights in business data using creative storytelling.  
-Each mystery uses **real datasets Northwinds2022  and applies advanced SQL techniques such as joins, aggregations, subqueries, and common table expressions (CTEs).
+Each mystery uses **real datasets Northwinds2022 and Northwinds** and applies advanced SQL techniques such as joins, aggregations, subqueries, and common table expressions (CTEs).
 We recorded **video walkthroughs** explaining how each case was solved using SQL queries and logic-based data analysis.
 
 ##  Goals
 - Create **7 individual SQL mystery queries** per member using storytelling format (detective-style cases).  
-- Use **Northwinds2022**  databases in **Azure Data Studio**.  
+- Use **Northwinds2022** and **Northwinds** databases in **Azure Data Studio**.  
 - Collaborate through **GitHub** for version control and group repository submissions.  
 - Record **Group MP4 videos** explaining query logic and results (posted on YouTube).  
 - Conduct **pair reviews** of each other’s queries and provide feedback in video.  
