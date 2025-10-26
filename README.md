@@ -41,7 +41,7 @@ We recorded **video walkthroughs** explaining how each case was solved using SQL
 
 ## Link To INDIVIDUAL Discussion & Videos
   - Azmain:
-  - Zarrin:
+  - Zarrin: https://youtu.be/Ovc3mDivna4?si=s585wv8FbON3dvc5
   - Haiyan:
   - Izaz:
   - Eusan:
