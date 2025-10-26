@@ -6,6 +6,8 @@ Christopher Vidal
 Izaz
 
 ## Objective
+To analyze real-world business data using detective-style stories, SQL joins, subqueries, and analytical functions.
+Each query was designed to tell a “mystery story” solved through SQL.
 
 ## Tools and Technologies
 
