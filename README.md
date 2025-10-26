@@ -81,7 +81,8 @@ We recorded **video walkthroughs** explaining how each case was solved using SQL
 
 ## NACE
 
-<img width="567" height="756" alt="Screenshot 2025-10-20 at 12 14 54 AM" src="https://github.com/user-attachments/assets/ae4b38aa-3dbc-4000-871e-ab1082b77235" />
+<img width="918" height="892" alt="image" src="https://github.com/user-attachments/assets/4bff696e-a159-421a-ae96-859b3c088061" />
+
 
 
 
