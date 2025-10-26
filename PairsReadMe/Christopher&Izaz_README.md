@@ -1,6 +1,8 @@
 # Project 1
 
 ## Team Members
+Christopher Vidal
+Izaz
 
 ## Objective
 
