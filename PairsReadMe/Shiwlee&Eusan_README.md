@@ -72,13 +72,6 @@ Finds tea, coffee, or juice products categorized under non-beverage groups.
 Ranks countries by total sales revenue to discover the top-performing markets.
 
 
-
-## Project To-Do List 
-
-|
-
-
-
 ## Reflections & Learning Outcomes
 - Strengthened skills in **JOINs, Aggregations, Subqueries, and CTEs**.  
 - Learned to apply **storytelling logic** to real-world data problems.  
