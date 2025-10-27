@@ -39,14 +39,6 @@ We recorded **video walkthroughs** explaining how each case was solved using SQL
   - Haiyan - Zarrin: https://youtu.be/UbXT7qemR-k
   - Izaz - Christopher: 
 
-## Link To INDIVIDUAL Discussion & Videos
-  - Azmain:
-  - Zarrin: https://youtu.be/Ovc3mDivna4?si=s585wv8FbON3dvc5
-  - Haiyan:
-  - Izaz:
-  - Eusan:
-  - Christopher:
-  - Shiwlee: 
 
 
 ## Individual Query Files
