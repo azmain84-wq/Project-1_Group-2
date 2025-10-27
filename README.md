@@ -55,7 +55,7 @@ We recorded **video walkthroughs** explaining how each case was solved using SQL
 - Shiwlee: Shiwlee_Rahman_Project1.ipynb
 - Haiyan: Haiyan_Wei_Project1.ipynb
 - Izaz: Izaz_Chowdhury_Project1.ipynb
-- Christopher: 
+- Christopher: Project1_Christopher_Vidal.ipynb
 - Zarrin: Zarrin_Cherry_Project1.ipynb
 
 
