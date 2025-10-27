@@ -29,9 +29,9 @@ We recorded **video walkthroughs** explaining how each case was solved using SQL
 
 ## Pairs
   - Azmain 
-  - Eusan : Shiwlee
-  - Haiyan : Zarrin
-  - Izaz : Christopher
+  - Eusan - Shiwlee
+  - Haiyan - Zarrin
+  - Izaz - Christopher
 
 ## Link To GROUP Peer Discussion & Videos
   - Azmain : 
