@@ -36,7 +36,7 @@ We recorded **video walkthroughs** explaining how each case was solved using SQL
 ## Link To GROUP Peer Discussion & Videos
   - Azmain : 
   - Eusan : Shiwlee https://youtu.be/4Qz6Wpf2rM0
-  - Haiyan: Zarrin
+  - Haiyan: Zarrin: https://youtu.be/UbXT7qemR-k
   - Izaz: Christopher
 
 ## Link To INDIVIDUAL Discussion & Videos
