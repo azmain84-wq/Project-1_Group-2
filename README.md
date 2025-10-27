@@ -64,6 +64,7 @@ We recorded **video walkthroughs** explaining how each case was solved using SQL
 
 
 ## To-Do-List
+<img width="1214" height="730" alt="image" src="https://github.com/user-attachments/assets/2589cb68-b529-4558-b82f-dbfa3d809be7" />
 
 
 
