@@ -81,4 +81,5 @@ We recorded **video walkthroughs** explaining how each case was solved using SQL
 
 
 ## Gantt Chart 
-<img width="1611" height="649" alt="image" src="https://github.com/user-attachments/assets/cbf1d6e9-fce8-4f93-9c1b-1acc9b9972b9" />
+<img width="1607" height="649" alt="image" src="https://github.com/user-attachments/assets/6ff7a188-34d7-49f3-9fe3-3cf6d70d9199" />
+
