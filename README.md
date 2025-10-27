@@ -42,7 +42,7 @@ We recorded **video walkthroughs** explaining how each case was solved using SQL
 
 
 ## Individual Query Files
-- Azmain: 
+- Azmain: NoteBooks/Azmain Abrar_ Project 1_Group 2.ipynb
 - Eusan: Individual_Cases_Eusan_Mahatab .ipynb
 - Shiwlee: Shiwlee_Rahman_Project1.ipynb
 - Haiyan: Haiyan_Wei_Project1.ipynb
