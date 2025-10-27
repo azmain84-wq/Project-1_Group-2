@@ -34,7 +34,7 @@ We recorded **video walkthroughs** explaining how each case was solved using SQL
   - Izaz - Christopher
 
 ## Link To GROUP Peer Discussion & Videos
-  - Azmain : 
+  - Azmain : https://youtu.be/Z-5GPtWCDrg
   - Eusan - Shiwlee: https://youtu.be/4Qz6Wpf2rM0
   - Haiyan - Zarrin: https://youtu.be/UbXT7qemR-k
   - Izaz - Christopher: 
